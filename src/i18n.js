@@ -67,7 +67,7 @@ const resources = {
       "Language": "Idioma",
       "Progress": "Progreso",
       "No projects to display on dashboard.": "No hay proyectos para mostrar en el tablero.",
-      "Clarity Task Manager": "Clarity Administrador de Tareas",
+      "Task Manager": "Gestor de tareas",
       "Dashboard": "Tablero",
       "Projects": "Proyectos",
       "Billing": "Facturación",
@@ -119,7 +119,8 @@ const resources = {
       "All Tasks": "Todas las Tareas",
       "None": "Ninguno",
       "Your configurable content goes here (images, banners, etc.)": "Aquí va tu contenido configurable (imágenes, banners, etc.)",
-      "Tasks": "Tareas"
+      "Tasks": "Tareas",
+      "No tasks yet. Add one to get started!" : "Aún no hay tareas. ¡Agrega una para empezar!"
     },
   },
 };

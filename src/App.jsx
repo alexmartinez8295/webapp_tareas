@@ -84,7 +84,7 @@ function App() {
                       </IconButton>
                     )}
                     <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1 }}>
-                      {t('Clarity Task Manager')}
+                      {t('Task Manager')}
                     </Typography>
                     <Button color="inherit" onClick={() => changeLanguage('en')}>EN</Button>
                     <Button color="inherit" onClick={() => changeLanguage('es')}>ES</Button>
