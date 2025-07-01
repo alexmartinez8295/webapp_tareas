@@ -119,6 +119,7 @@ const resources = {
       "All Tasks": "Todas las Tareas",
       "None": "Ninguno",
       "Your configurable content goes here (images, banners, etc.)": "Aquí va tu contenido configurable (imágenes, banners, etc.)",
+      "Tasks": "Tareas"
     },
   },
 };
